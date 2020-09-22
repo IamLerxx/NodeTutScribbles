@@ -1,5 +1,5 @@
 var exports=module.exports={};
-exports.tutorial=function()
+exports.Hello=function()
 {
 	console.log("Hallo Kevin")
 }

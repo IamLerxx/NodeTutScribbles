@@ -1,6 +1,6 @@
 {
-  "name": "lerxxnodetut",
-  "version": "1.0.1",
+  "name": "lerxxnode",
+  "version": "1.0.0",
   "description": "Just some scribbles",
   "main": "index.js",
   "scripts": {

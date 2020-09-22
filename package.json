@@ -1,7 +1,7 @@
 {
   "name": "nodetut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just some scribbles",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js"

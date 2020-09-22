@@ -1,0 +1,22 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamLerxx/NodeTutScribbles.git"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Lerxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamLerxx/NodeTutScribbles/issues"
+  },
+  "homepage": "https://github.com/IamLerxx/NodeTutScribbles#readme"
+}
